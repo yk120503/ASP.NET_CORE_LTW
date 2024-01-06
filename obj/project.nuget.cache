@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eafs8rdWjhH+a4CHEy5NngnjF8Ccv/yLmNv4D5sd0jmZo/U4ycoW+d4bC9mm+12KWUrgTy5hjvEvVd1p56Y3Fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Downloads\\ASP.NET_CORE_LTW-main\\ASP.NET_CORE_LTW-main\\Thiet-ke-web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
